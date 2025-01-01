@@ -1,4 +1,3 @@
-<h1 align="center">Victor Okolo</h1>
 <h1 align="center"><font color="#FF69B4">✨ Welcome to My Profile ✨</font></h1>
 
 ### 🚀 About Me
