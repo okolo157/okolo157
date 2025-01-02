@@ -4,7 +4,7 @@
 ```javascript
 const developer = {
     name: 'Victor Okolo',
-    languages: ['JavaScript', 'PHP', 'Solidity', 'TypeScript'],
+    languages: ['JavaScript', 'PHP', 'TypeScript'],
     tools: ['React', 'React Native', 'Node.js', 'Express', 'Laravel', 'Angular'],
     hosting: ['Render', 'DigitalOcean'],
     databases: ['MongoDB', 'MySQL', 'Redis'],
