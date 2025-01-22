@@ -8,11 +8,6 @@ const developer = {
     tools: ['React', 'React Native', 'Node.js', 'Next.js', 'Wasp', 'Express', 'Laravel', 'Angular'],
     hosting: ['Render', 'DigitalOcean'],
     databases: ['MongoDB', 'MySQL', 'Redis'],
-    experience: {
-        frontend: true,
-        backend: true,
-        web3: true,
-    },
     challenge: '🌱 Currently learning AWS'
 };
 
