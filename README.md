@@ -9,6 +9,6 @@ const developer = {
     hosting: ['Render', 'DigitalOcean'],
     databases: ['MongoDB', 'MySQL', 'Redis'],
     challenge: '🌱 Currently learning AWS'
-};
+}
 
 ```
