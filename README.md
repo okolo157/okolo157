@@ -5,7 +5,7 @@
 const developer = {
     name: 'Victor Okolo',
     languages: ['JavaScript', 'TypeScript'],
-    tools: ['React', 'React Native', 'Node.js', 'Next.js', 'Wasp', 'Express', 'Mongoose', 'Prisma', 'Three.js, 'Next-auth'],
+    tools: ['React', 'React Native', 'Node.js', 'Next.js', 'Wasp', 'Express', 'Mongoose', 'Prisma', 'Three.js, 'Nextauth'],
     hosting: ['Render', 'Netlify', 'Vercel', 'Hostinger', 'DigitalOcean'],
     databases: ['MongoDB', 'MySQL', 'Redis'],
     challenge: '🌱 Currently learning AWS'
