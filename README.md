@@ -4,11 +4,10 @@
 ```javascript
 const developer = {
     name: 'Victor Okolo',
-    languages: ['JavaScript', 'TypeScript'],
-    tools: ['React', 'React Native', 'Node.js', 'Next.js', 'Wasp', 'Express', 'Mongoose', 'Prisma', 'Nextauth'],
-    hosting: ['Render', 'Netlify', 'Vercel', 'Hostinger', 'DigitalOcean'],
+    stack: ['JavaScript', 'TypeScript'],
+    tools: ['React', 'React Native', 'Node.js', 'Next.js', 'Express', 'Prisma', 'Mongoose', 'NextAuth', 'Wasp'],
+    hosting: ['Render', 'Netlify', 'Vercel', 'DigitalOcean'],
     databases: ['MongoDB', 'MySQL', 'Redis'],
-    challenge: '🌱 Currently learning AWS'
-}
-
+    currentlyLearning: 'AWS ☁️'
+};
 ```
