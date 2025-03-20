@@ -1,13 +1,4 @@
 <h1><div align="center">👨🏽‍🍳</div></h1>
 
 
-```javascript
-const developer = {
-    name: 'Victor Okolo',
-    stack: ['JavaScript', 'TypeScript'],
-    tools: ['React', 'React Native', 'Node.js', 'Next.js', 'Express', 'Prisma', 'Mongoose', 'NextAuth', 'Wasp'],
-    hosting: ['Render', 'Netlify', 'Vercel', 'DigitalOcean'],
-    databases: ['MongoDB', 'MySQL', 'Redis'],
-    currentlyLearning: 'AWS ☁️'
-};
-```
+![GitHub_Stats](https://github-readme-stats.vercel.app/api?username=okolo157&theme=radical)
