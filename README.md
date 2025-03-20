@@ -1,7 +1,3 @@
 <h1>👨🏽‍🍳</h1>
 
-
-
-  ![](https://raw.githubusercontent.com/okolo157/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=okolo157&langs_count=5&theme=tokyonight)
